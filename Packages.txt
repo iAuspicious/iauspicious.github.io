@@ -1,5 +1,5 @@
 
-Package: com.hackyouriphone.fortnitebypass
+Package: com.iAuspicious.fortnitebypass
 Section: Tweaks
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
@@ -11,7 +11,7 @@ Description: Bypass fortnite protection!
 Name: A Fortnite Bypass Protection
 Author: Akusio
 
-Package: com.dragonslayer4832.CrashReporter
+Package: com.iAuspicious.CrashReporter
 Section: Tweaks
 Maintainer: iauspicious
 Architecture: iphoneos-arm
@@ -23,7 +23,7 @@ Description: Test for site do n0t install!!!
 Name: CrashReporter
 Author: Lance Fetters (ashikase) <camowilson89581@gmail.com>
 
-Package: com.hackyouriphone.colorbanners2
+Package: com.iAuspicious.colorbanners2
 Section: Tweaks
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
@@ -35,3 +35,15 @@ Size: 656434
 Description: Color your notifications. Made for IOS 11! Okay to use!
 Name: ColorBanners 2
 Author: David Goldman <repo@hackyouriphone.org>
+
+Package: com.iAuspicious.muze3
+Section: Best Themes
+Maintainer: IAUSPICIOUS
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: com.anemonetheming.anemone
+Filename: debs//com.hackyouriphone.muze3_1.1
+Size: 1246662
+Description: Colourful explosions
+Name: Muze 3
+Author: Purdixx <kogulan.sivaneshan@gmail.com>
