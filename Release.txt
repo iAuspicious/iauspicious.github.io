@@ -1,9 +1,8 @@
-Name: iAuspicious
 Origin: iAuspicious
-Label: repo
+Label: 🚀 iAuspicious 🚀
 Suite: beta
 Version: 0.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: An open-source repository with test packages.
+Description: 🚀 An open-source repository with test packages 🚀
