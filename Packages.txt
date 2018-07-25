@@ -19,9 +19,23 @@ Version: 1.15.0-1
 Depends: mobilesubstrate
 Filename: debs//crash-reporter_1.15.0-1_iphoneos-arm.deb
 Size: 332612
-MD5sum: b83d34b89564b6f5d78eb9e111cee812
-SHA1: d700c1cbe20068ad331c6c42a382f031e6c6d21e
-SHA256: 2edbf86f3fe9ee9f4ebac46589e6d92dde3f31a5f3a8847521d69fbcd4b44aaf
 Description: Test for site do n0t install!!!
 Name: CrashReporter
 Author: Lance Fetters (ashikase) <camowilson89581@gmail.com>
+
+Package: com.hackyouriphone.colorbanners2
+
+Section: Tweaks
+Maintainer: IAUSPICIOUS
+Architecture: iphoneos-arm
+Version: 1.1.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+
+Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
+
+Filename: debs//com.hackyouriphone.colorbanners2_1.1.1
+Size: 656434
+Description: Color your notifications. Made for IOS 11! Okay to use!
+Name: ColorBanners 2
+
+Author: David Goldman <repo@hackyouriphone.org>
