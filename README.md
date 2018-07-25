@@ -1,2 +1,3 @@
 # iAuspicious
-An open-source repository with test packages.
+An open-source Cydia repository.
+
