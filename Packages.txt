@@ -22,8 +22,8 @@ Size: 332612
 Description: Test for site do n0t install!!!
 Name: CrashReporter
 Author: Lance Fetters (ashikase) <camowilson89581@gmail.com>
-Package: com.hackyouriphone.colorbanners2
 
+Package: com.hackyouriphone.colorbanners2
 Section: Tweaks
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
