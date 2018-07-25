@@ -1,3 +1,4 @@
+Name: iAuspicious
 Origin: iAuspicious
 Label: repo
 Suite: beta
