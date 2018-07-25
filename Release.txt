@@ -1,7 +1,7 @@
 Origin: iAuspicious
 Label: 🚀 iAuspicious 🚀
-Suite: beta
-Version: 0.1
+Suite: stable
+Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
