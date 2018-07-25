@@ -30,12 +30,26 @@ Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
 Version: 1.1.1
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
-
 Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
-
 Filename: debs//com.hackyouriphone.colorbanners2_1.1.1
 Size: 656434
 Description: Color your notifications. Made for IOS 11! Okay to use!
 Name: ColorBanners 2
-
 Author: David Goldman <repo@hackyouriphone.org>
+
+Package: com.hackyouriphone.muze3
+
+Section: Best Themes
+Maintainer: IAUSPICIOUS
+Architecture: iphoneos-arm
+Version: 1.1
+
+Depends: com.anemonetheming.anemone
+
+Filename: debs//com.hackyouriphone.muze3_1.1
+Size: 1246662
+Description: Colourful explosions
+Name: Muze 3
+
+Author: Purdixx <kogulan.sivaneshan@gmail.com>
+
