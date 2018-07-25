@@ -5,7 +5,7 @@ Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
 Version: 5.1.0
 Depends: mobilesubstrate
-Filename: debs//fortnitebypass_5.1.0.deb
+Filename: debs//com.hackyouriphone.fortnitebypass_5.1.0
 Size: 2720
 Description: Bypass fortnite protection!
 Name: A Fortnite Bypass Protection
