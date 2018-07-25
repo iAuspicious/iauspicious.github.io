@@ -1,0 +1,8 @@
+Origin: iAuspicious
+Label: repo
+Suite: beta
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: An open-source repository with test packages.

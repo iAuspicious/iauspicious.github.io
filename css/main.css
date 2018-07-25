@@ -1,0 +1,52 @@
+body {
+    background: #0f1a20;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.fullpage {
+    width: 100%;
+    display: inline-flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.btn-default,
+.btn-default:focus {
+    background: #21343e;
+    border: 0;
+    color: white;
+    padding: 10px 25px;
+}
+.btn-default:hover,
+.btn-default:active {
+    background: #29414d !important;
+    color: white !important;
+}
+#anim1 {
+    margin-top: 10px;
+    animation: 1s textFx ease;
+}
+#rocket {
+    animation: 1s rocketFx ease;
+}
+@keyframes rocketFx {
+    0% {
+        opacity: 0;
+        transform: scale3d(0.3, 0.3, 0.3) rotate(-20deg);
+    }
+    65% {
+        opacity: 1;
+        transform: scale3d(1.05, 1.05, 1.05) rotate(5deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
+@keyframes textFx {
+    0% {
+        opacity: 0;
+        transform: translateY(20%);
+    }
+}
