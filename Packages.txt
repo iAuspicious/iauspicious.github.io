@@ -20,7 +20,7 @@ Maintainer: iauspicious
 Architecture: iphoneos-arm
 Version: 1.15.0-1
 Depends: mobilesubstrate
-Filename: ./debs/com.dragonslayer4832.CrashReporter
+Filename: ./debs/com.dragonslayer4832.CrashReporter.deb
 MD5sum: b83d34b89564b6f5d78eb9e111cee812
 SHA1: d700c1cbe20068ad331c6c42a382f031e6c6d21e
 SHA256: 2edbf86f3fe9ee9f4ebac46589e6d92dde3f31a5f3a8847521d69fbcd4b44aaf
@@ -36,7 +36,7 @@ Architecture: iphoneos-arm
 Version: 1.1.1
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
-Filename: ./debs/com.hackyouriphone.colorbanners2_1.1.1
+Filename: ./debs/com.hackyouriphone.colorbanners2_1.1.1.deb
 MD5sum: 0f9541d0d590591ee64f9089406df59e
 SHA1: 6beb8cb4ab59d0b91b7bdd6cd640398965d09d92
 SHA256: 1d4bf550b201227baed0a4abac876bd9a89711862945527ba82228476515aee3
@@ -51,7 +51,7 @@ Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
 Version: 1.1
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.hackyouriphone.muze3_1.1
+Filename: ./debs/com.hackyouriphone.muze3_1.1.deb
 MD5sum: fb94f236f62b072b547b4243be507556
 SHA1: 1b5539b004ca1bf908424057a2930e4c8c981a38
 SHA256: 373393963d80d62a4d6baa7080029b80a27ae5a26cd5da98251bb7ea212269ce
