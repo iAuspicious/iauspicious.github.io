@@ -9,6 +9,8 @@ Filename: ./debs/com.iauspicious.fortnitebypass_5.1.0.deb
 MD5sum: 5d23b5a3645e903887a33b01e3805c03
 SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
 SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
+SHA384: d19ba8f1da9b89f0021d3f77df4ffda0d3e4b73a550a06873ab1192d31d1874df253ff0c7d0a1d1c5ef3c56ebae53a67
+SHA512: 3dbc46d85eb1a7a88c691bd55e305b6462166e0d6d35576c32d7442e11a317b25be7b0cd6904417693fa18052af4de8cc577f7549187e849793343c614b27b2b
 Size: 2720
 Description: Bypass fortnite protection!
 Name: A Fortnite Bypass Protection
@@ -24,6 +26,8 @@ Filename: ./debs/com.iauspicious.crash-reporter.deb
 MD5sum: e10b81ed6ee5dec43bab7555c44c915d
 SHA1: 70f9b2dc1dbe5d682285a07abbc990427aa0c3db
 SHA256: 867fc47f6089ce41378e600aa27494812d4c55a62617e5dca2e878c2c81489fd
+SHA384: ca776c7f0f3ff834e108169d7e2cf1b48b6405f9d4fb7be6cbecdb851e49e7d355e95ecf699a247b1bd1c0042a521818
+SHA512: 6bb060de1aec57009d9fa0734f426dbb0a5abb2579aaf5819a8cd5d29c607efc820b68318493570d2791d5e1a88f3dd711a7dcd10f7496ec8e4f4498e1bcefb2
 Size: 332612
 Description: DO NOT USE - general test file
 Name: CrashReporter
@@ -40,6 +44,8 @@ Filename: ./debs/com.iauspicious.colorbanners2_1.1.1.deb
 MD5sum: 05dde93e70caba206140483fe86798bb
 SHA1: 2fb1cb2d935bca766d7ce50b498da6089711599a
 SHA256: aafe548f97b1e1233a4eeee4f195fb6ba588c25bf0e6fc4183136d6d389b733a
+SHA384: 4989f9a35dac963e75eb587fc47b68ebdc781eb25940c75363b47ee58e90d232f377182c93bd816e6fb8c0025305b6df
+SHA512: 496d97a876d82585f9d0140ff612e451cbfec862b766c424e2744529c06f0c229ba1b415daeb86bf8249d9c269c0d2092e2e9f95b492e8e9d388da6256e0a16f
 Size: 656434
 Description: Color your notifications. Made for IOS 11! Okay to use!
 Name: ColorBanners 2
@@ -55,6 +61,8 @@ Filename: ./debs/com.iauspicious.muze3_1.1.deb
 MD5sum: be997e72f57f2a69e627033a1bb54487
 SHA1: 63a901775900c5e8029ea4fe7db448c1862c335e
 SHA256: a4cd64115ee08ffa2b85cf1cb01f4764044d9912fbbb29289632e969848547c7
+SHA384: 8a5d74ce0db11b671b532813f68be619ca0d4affa1ef4b9e27a3f769cc7c8e026bfb66a1b3c3b23e357dc67886260b9a
+SHA512: 236dff92fe74bfbf593f58ae4df72907f65f587ed378b8254d7ca74795bd13bd716837582ccf043f2aed66e814af3466b743482f694489dce510a8c29d27d19d
 Size: 1246662
 Description: Colourful explosions
 Name: Muze 3
