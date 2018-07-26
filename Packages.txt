@@ -1,5 +1,5 @@
 
-Package: com.iAuspicious.fortnitebypass
+Package: com.hackyouriphone.fortnitebypass
 Section: Tweaks
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
@@ -20,7 +20,7 @@ Maintainer: iauspicious
 Architecture: iphoneos-arm
 Version: 1.15.0-1
 Depends: mobilesubstrate
-Filename: ./debs/crash-reporter_1.15.0-1_iphoneos-arm.deb
+Filename: ./debs/com.dragonslayer4832.CrashReporter
 MD5sum: b83d34b89564b6f5d78eb9e111cee812
 SHA1: d700c1cbe20068ad331c6c42a382f031e6c6d21e
 SHA256: 2edbf86f3fe9ee9f4ebac46589e6d92dde3f31a5f3a8847521d69fbcd4b44aaf
@@ -29,7 +29,7 @@ Description: Test for site do n0t install!!!
 Name: CrashReporter
 Author: Lance Fetters (ashikase) <camowilson89581@gmail.com>
 
-Package: com.iAuspicious.colorbanners2
+Package: com.hackyouriphone.colorbanners2_1.1.1
 Section: Tweaks
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
@@ -45,7 +45,7 @@ Description: Color your notifications. Made for IOS 11! Okay to use!
 Name: ColorBanners 2
 Author: David Goldman <repo@hackyouriphone.org>
 
-Package: com.iAuspicious.muze3
+Package: com.hackyouriphone.muze3_1.1
 Section: Best Themes
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
