@@ -5,7 +5,7 @@ Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
 Version: 5.1.0
 Depends: mobilesubstrate
-Filename: ./debs/com.hackyouriphone.fortnitebypass_5.1.0
+Filename: ./debs/com.hackyouriphone.fortnitebypass_5.1.0.deb
 MD5sum: 498f48f06eaa0170bac2bdac3a1d14e0
 SHA1: bade45527c73743e5714d3d5cee8bc707e2b5698
 SHA256: 8d1e856fd05b6faaee5dcad0fdada11ffe64faaa52f192b76c728043286a523e
