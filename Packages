@@ -6,9 +6,9 @@ Architecture: iphoneos-arm
 Version: 5.1.0
 Depends: mobilesubstrate
 Filename: ./debs/com.iauspicious.fortnitebypass_5.1.0.deb
-MD5sum: 498f48f06eaa0170bac2bdac3a1d14e0
-SHA1: bade45527c73743e5714d3d5cee8bc707e2b5698
-SHA256: 8d1e856fd05b6faaee5dcad0fdada11ffe64faaa52f192b76c728043286a523e
+MD5sum: 5d23b5a3645e903887a33b01e3805c03
+SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
+SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
 Size: 2720
 Description: Bypass fortnite protection!
 Name: A Fortnite Bypass Protection
@@ -21,9 +21,9 @@ Architecture: iphoneos-arm
 Version: 1.15.0-1
 Depends: mobilesubstrate
 Filename: ./debs/com.iauspicious.crash-reporter.deb
-MD5sum: b83d34b89564b6f5d78eb9e111cee812
-SHA1: d700c1cbe20068ad331c6c42a382f031e6c6d21e
-SHA256: 2edbf86f3fe9ee9f4ebac46589e6d92dde3f31a5f3a8847521d69fbcd4b44aaf
+MD5sum: e10b81ed6ee5dec43bab7555c44c915d
+SHA1: 70f9b2dc1dbe5d682285a07abbc990427aa0c3db
+SHA256: 867fc47f6089ce41378e600aa27494812d4c55a62617e5dca2e878c2c81489fd
 Size: 332612
 Description: DO NOT USE - general test file
 Name: CrashReporter
@@ -37,9 +37,9 @@ Version: 1.1.1
 Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
 Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
 Filename: ./debs/com.iauspicious.colorbanners2_1.1.1.deb
-MD5sum: 0f9541d0d590591ee64f9089406df59e
-SHA1: 6beb8cb4ab59d0b91b7bdd6cd640398965d09d92
-SHA256: 1d4bf550b201227baed0a4abac876bd9a89711862945527ba82228476515aee3
+MD5sum: 05dde93e70caba206140483fe86798bb
+SHA1: 2fb1cb2d935bca766d7ce50b498da6089711599a
+SHA256: aafe548f97b1e1233a4eeee4f195fb6ba588c25bf0e6fc4183136d6d389b733a
 Size: 656434
 Description: Color your notifications. Made for IOS 11! Okay to use!
 Name: ColorBanners 2
@@ -52,9 +52,9 @@ Architecture: iphoneos-arm
 Version: 1.1
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.iauspicious.muze3_1.1.deb
-MD5sum: fb94f236f62b072b547b4243be507556
-SHA1: 1b5539b004ca1bf908424057a2930e4c8c981a38
-SHA256: 373393963d80d62a4d6baa7080029b80a27ae5a26cd5da98251bb7ea212269ce
+MD5sum: be997e72f57f2a69e627033a1bb54487
+SHA1: 63a901775900c5e8029ea4fe7db448c1862c335e
+SHA256: a4cd64115ee08ffa2b85cf1cb01f4764044d9912fbbb29289632e969848547c7
 Size: 1246662
 Description: Colourful explosions
 Name: Muze 3
