@@ -13,19 +13,3 @@ Size: 2468
 Description: Bypass fortnite protection!
 Name: Fortnite Protection
 Author: Jamieuk
-
-
-Package: com.iauspicious.muze
-Section: Best Themes
-Maintainer: IAUSPICIOUS
-Architecture: iphoneos-arm
-Version: 1.1
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.iauspicious.muze3_1.1.deb
-MD5sum: be997e72f57f2a69e627033a1bb54487
-SHA1: 63a901775900c5e8029ea4fe7db448c1862c335e
-SHA256: a4cd64115ee08ffa2b85cf1cb01f4764044d9912fbbb29289632e969848547c7
-Size: 1247120
-Description: Colourful explosions
-Name: Muze 3
-Author: Purdixx <kogulan.sivaneshan@gmail.com>
