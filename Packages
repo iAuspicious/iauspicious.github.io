@@ -13,3 +13,19 @@ Size: 2468
 Description: Bypass fortnite protection!
 Name: Fortnite Protection
 Author: Jamieuk
+
+
+Package: com.iauspicious.localiapstore
+Section: Tweaks to not use yet
+Maintainer: IAUSPICIOUS
+Architecture: iphoneos-arm
+Version: 1.4-2
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.iauspicious.localiapstore_1.4-2
+MD5sum: 5d23b5a3645e903887a33b01e3805c03
+SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
+SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
+Size: 2468
+Description: Get free Coins and gems in most games you play for free. just hit buy and when it asks for the password click cancel and you'll get the purchase it's that simple
+Name: LocalIAPStore
+Author: anondev
