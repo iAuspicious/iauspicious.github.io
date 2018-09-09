@@ -29,3 +29,33 @@ Size: 2468
 Description: Fortnite that will include modded elements such as aimbot and no damage. NOT properly compatibale and HIGHLY LIKLY TO GET YOU BANNED :) thanks me later for warning you
 Name: Modded fortnite
 Author: Jamieuk
+
+Package: com.iauspicious.look
+Section: Tweaks In Beta (use at own risk)
+Maintainer: IAUSPICIOUS
+Architecture: iphoneos-arm
+Version: 5.1.0
+Depends: mobilesubstrate
+Filename: ./debs/com.iauspicious.fortnitebypass_5.1.0.deb
+MD5sum: 5d23b5a3645e903887a33b01e3805c03
+SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
+SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
+Size: 2468
+Description:  such as aimbot and no damage. NOT properly compatibale and HIGHLY LIKLY TO GET YOU BANNED :) thanks me later for warning you
+Name: Speed booster 
+Author: Jamieuk
+
+Package: com.iauspicious.iaus
+Section: Tweaks In Beta (use at own risk)
+Maintainer: IAUSPICIOUS
+Architecture: iphoneos-arm
+Version: 5.1.0
+Depends: mobilesubstrate
+Filename: ./debs/com.iauspicious.fortnitebypass_5.1.0.deb
+MD5sum: 5d23b5a3645e903887a33b01e3805c03
+SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
+SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
+Size: 2468
+Description: Short look as brillant and can help on every day to day life 
+Name: Short Look
+Author: Jamieuk
