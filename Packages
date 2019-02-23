@@ -1,6 +1,6 @@
 
 Package: com.iauspicious.localiapstore
-Section: Tweaks to not use yet
+Section: Tweaks fo Ios 12
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
 Version: 1.4-2
@@ -33,6 +33,7 @@ Author: Jamieuk
 
 Package: me.jamieuk.notifica
 	Name: Notifica 2.0
+	Section: Tweaks fo Ios 12
 	Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
 	Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi
 	Architecture: iphoneos-arm
