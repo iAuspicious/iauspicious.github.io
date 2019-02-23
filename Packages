@@ -29,3 +29,22 @@ Size: 2468
 Description: Fortnite that will include modded elements such as aimbot and no damage. NOT properly compatibale and HIGHLY LIKLY TO GET YOU BANNED :) thanks me later for warning you
 Name: Modded fortnite
 Author: Jamieuk
+
+
+Package: me.jamieuk.notifica
+	Name: Notifica 2.0
+	Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
+	Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi
+	Architecture: iphoneos-arm
+	MD5sum: 5d23b5a3645e903887a33b01e3805c03
+	SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
+	Description: TEST
+	Name: NOTIFICA.TEST
+	Author: Jamieuk
+	Description: Notification customizer
+	Maintainer: Jamieuk
+	Author: jamie
+	Filename: ./debs/me.nepeta.notifica_0.1.1
+	Section: Tweaks
+	Version: 0.1.1
+	Installed-Size: 756
