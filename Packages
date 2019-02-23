@@ -15,32 +15,17 @@ Name: LocalIAPStore
 Author: anondev
 
 
-Package: com.iauspicious.localiapstore
-Section: Tweaks to not use yet
+Package: com.iauspicious.fortnitebypass
+Section: Tweaks In Beta (use at own risk)
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
-Version: 1.4-2
-Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
-Filename: ./debs/com.iauspicious.localiapstore_1.4-2
+Version: 5.1.0
+Depends: mobilesubstrate
+Filename: ./debs/com.iauspicious.fortnitebypass_5.1.0.deb
 MD5sum: 5d23b5a3645e903887a33b01e3805c03
 SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
 SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
 Size: 2468
-Description: Get free Coins and gems in most games you play for free. just hit buy and when it asks for the password click cancel and you'll get the purchase it's that simple
-Name: LocalIAPStore
-Author: anondev
-
-
-Package: me.jamieuk.notifica
-Name: Notifica 2.0
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
-Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi
-Architecture: iphoneos-arm
-Description: Notification customizer
-Maintainer: Jamieuk
-Author: jamie
-Filename: ./debs/me.nepeta.notifica_0.1.1
-Section: Tweaks
-Version: 0.1.1
-Installed-Size: 756
-
+Description: Fortnite that will include modded elements such as aimbot and no damage. NOT properly compatibale and HIGHLY LIKLY TO GET YOU BANNED :) thanks me later for warning you
+Name: Modded fortnite
+Author: Jamieuk
