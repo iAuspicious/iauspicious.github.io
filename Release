@@ -1,8 +1,8 @@
-Origin: iAuspicious
-Label: 🚀 iAuspicious 🚀
+Origin: iAuspicious 12
+Label: 🚀 iAuspicious 12 🚀
 Suite: Stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 🚀 An open-source repository with test packages 🚀
+Description: 🚀 An open-source repository with test packages for ios 12 🚀
