@@ -1,6 +1,6 @@
 
 Package: com.iauspicious.localiapstore
-Section: Tweaks for Ios 12
+Section: Tweaks for Ios 12.3
 Maintainer: IAUSPICIOUS
 Architecture: iphoneos-arm
 Version: 1.4-2
@@ -18,7 +18,7 @@ Author: anondev
 
 Package: com.iauspicious.notifica
 	Name: Notifica 2.0
-	Section: Tweaks for Ios 12
+	Section: Tweaks for Ios 12.4
 	Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
 	Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi
 	Architecture: iphoneos-arm
@@ -54,7 +54,7 @@ Author: anondev
 
 Package: com.iauspicious.notifica
 	Name: Notifica 2.0
-	Section: Tweaks for Ios 12
+	Section: Tweaks for Ios 13(joke)
 	Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
 	Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi
 	Architecture: iphoneos-arm
