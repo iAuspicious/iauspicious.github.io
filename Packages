@@ -10,7 +10,7 @@ MD5sum: 5d23b5a3645e903887a33b01e3805c03
 SHA1: 9f045c7fad0f88cdbec6f15aa3d3be1e9f41cdd3
 SHA256: daf259e28da93e9ec2f6a78a089e037d8299414316e61e19c15db4b542fe09d3
 Size: 2468
-Description: Get free Coins and gems in most games you play for free. just hit buy and when it asks for the password click cancel and you'll get the purchase it's that simple
+Description: Free inapp purchases
 Name: LocalIAPStore
 Author: anondev
 
@@ -24,7 +24,7 @@ Package: com.iauspicious.notifica
 	Architecture: iphoneos-arm
 	MD5sum: 451E4A709FBD22EFBECD648C5CF5665D
 	SHA1: 0C6B3BFF70114B03D45902E913759C1377AEC304
-	Description: TEST
+	Description: TESTGet
 	Name: NOTIFICA.TEST
 	Author: Jamieuk
 	Description: Notification customizer
