@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Package: com.jamieuk.azutii
 Name: Peaky
 Depends: mobilesubstrate
@@ -13,6 +13,4 @@ MD5sum: cba279e32ce6f9da0febe6eec1606f4a
 SHA1: e084d129d884f99349109466e8a062f4b27e3a61
 SHA256: 8ed54a0ad1d02846582645a78a9c154ab78f82e1097d9f586af1068412ad4395
 Size: 1484
-=======
 
->>>>>>> 959776ece5b63336a993c1620488171fd74ad8f4
