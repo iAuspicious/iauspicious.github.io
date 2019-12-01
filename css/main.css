@@ -27,6 +27,10 @@ body {
     background: #4f595f !important;
     color: white !important;
 }
+h4{
+    
+    color: red;
+}
 #anim1 {
     margin-top: 10px;
     animation: 1s textFx ease;

@@ -1,8 +1,13 @@
+<<<<<<< HEAD
+Origin: iAuspicious
+Label: 🚀 iAuspicious🚀
+=======
 Origin: iAuspicious 
 Label: iAuspicious🚀
+>>>>>>> 959776ece5b63336a993c1620488171fd74ad8f4
 Suite: Stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: 🚀 An open-source repository with test packages for ios 12 🚀
+Description: 🚀 Run by @jamieuk07 🚀
