@@ -27,7 +27,7 @@ Maintainer: Jamie Ralston
 Section: Themes
 Depends: com.spark.snowboard
 Filename: ./debs/Echoes.deb
-MD5sum: 6439923298e380864fb36ae8140e48fd
-SHA1: 12504d0eeaf4589477e70a2fcb07e1e114e37cc9
-SHA256: aef9c9a97fd95dc17cdd0909905dfdec0c221e2682e5030f479bdd9531f853c4
-Size: 35058184
+MD5sum: 1e7ac9119d8dc0751ff43d411ebae874
+SHA1: 86927533c66d3b8d9e92ce6a7170d637c4ddda65
+SHA256: 60b36ea3ccdf31ea4ad39e37ac0d8efa798a82ffd9e5e9adda42e90d2aafc4b4
+Size: 31942764
