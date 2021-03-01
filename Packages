@@ -29,5 +29,5 @@ Depends: com.spark.snowboard
 Filename: ./debs/Echoes.deb
 MD5sum: 6439923298e380864fb36ae8140e48fd
 SHA1: 12504d0eeaf4589477e70a2fcb07e1e114e37cc9
-SHA256: aef9c9a97fd95dc17cdd0909905dfdec0C221e2682e5030f479bdd9531f853c4
+SHA256: aef9c9a97fd95dc17cdd0909905dfdec0c221e2682e5030f479bdd9531f853c4
 Size: 35058184
