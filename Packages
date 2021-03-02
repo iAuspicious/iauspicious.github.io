@@ -31,3 +31,17 @@ MD5sum: 1e7ac9119d8dc0751ff43d411ebae874
 SHA1: 86927533c66d3b8d9e92ce6a7170d637c4ddda65
 SHA256: 60b36ea3ccdf31ea4ad39e37ac0d8efa798a82ffd9e5e9adda42e90d2aafc4b4
 Size: 31942764
+
+Package: com.jamieuk.hapticvolume
+Name: Haptic Volume
+Version: 0.02
+Architecture: iphoneos-arm
+Description: gives haptic feedbck to when using using volume..
+Maintainer: Jamie Ralston
+Author: Jamie Ralston
+Section: Tweaks
+Filename: ./debs/com.jamieuk.hapticvolume_0.0.2-1+debug_iphoneos-arm.deb
+MD5sum: 12d6975984a90c0881bec23f27816c4d
+SHA1: d3b16634d8317b075677969bb6cc2db5d262131a
+SHA256: 0121bf0603746d3d003327cd3d5c4ddc7e9b59bc3ee7f93b266ee9ee74cd3a93
+Size: 4002
