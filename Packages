@@ -45,3 +45,20 @@ MD5sum: 12d6975984a90c0881bec23f27816c4d
 SHA1: d3b16634d8317b075677969bb6cc2db5d262131a
 SHA256: 0121bf0603746d3d003327cd3d5c4ddc7e9b59bc3ee7f93b266ee9ee74cd3a93
 Size: 4002
+
+
+
+Package: com.jamieuk.anime
+Name: H3NTAI
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A theme with beautiful icons! Credit to @lovehyka
+Author: hyka
+Maintainer: Jamie Ralston
+Section: Themes
+Depends: com.spark.snowboard
+Filename: ./debs/h3ntai.deb
+MD5sum: 648f7654e3d457b47d612e171e9cfeb4
+SHA1: 9daebb83347fadee1c536e9612d3f019a1cf76e1
+SHA256: ac26b366f538a8f8de1be96898fb5c50829fd7d6c78dcb30c2c77a6c7c8f9b33
+Size: 499148
